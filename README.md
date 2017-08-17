@@ -1,5 +1,9 @@
 # vnc2flv-docker
 
+[![Docker Build Status](https://img.shields.io/docker/build/saulshanabrook/vnc2flv.svg)](https://hub.docker.com/r/saulshanabrook/vnc2flv/)
+[![](https://images.microbadger.com/badges/image/saulshanabrook/vnc2flv.svg)](https://microbadger.com/images/saulshanabrook/vnc2flv "Get your own image badge on microbadger.com")
+
+
 Docker Image for recording VNC sessions.
 
 Simple wrapper around the [`vnc2flv` Python package](http://www.unixuser.org/~euske/python/vnc2flv/),
